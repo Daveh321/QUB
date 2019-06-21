@@ -4,7 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF1",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -117,7 +120,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF2",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -190,7 +196,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF3",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -373,7 +382,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF4",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -501,7 +513,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF5",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -594,7 +609,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF6",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -727,7 +745,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF7",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -865,7 +886,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF8",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -908,7 +932,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF9",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -991,7 +1018,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF10",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1074,7 +1104,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF11",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1117,7 +1150,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF12",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1160,7 +1196,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF13",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1213,7 +1252,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF14",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1296,7 +1338,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF15",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1369,7 +1414,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF16",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1612,7 +1660,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF17",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1770,7 +1821,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF18",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1853,7 +1907,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF19",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1896,7 +1953,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF20",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1999,7 +2059,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF21",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2072,7 +2135,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF22",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2115,7 +2181,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF23",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2218,7 +2287,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF24",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2261,7 +2333,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF25",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2339,7 +2414,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF26",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2382,7 +2460,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF27",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2435,7 +2516,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF28",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2508,7 +2592,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF29",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2561,7 +2648,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF30",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2689,7 +2779,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF31",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2742,7 +2835,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF32",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2805,7 +2901,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF33",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2893,7 +2992,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF34",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2936,7 +3038,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF35",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3079,7 +3184,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF36",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3317,7 +3425,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF37",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3360,7 +3471,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF38",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3593,7 +3707,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF39",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3636,7 +3753,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF40",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3759,7 +3879,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF41",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3832,7 +3955,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": null
+        "id": "AL-GF42",
+        "color": "Green",
+        "height": 3,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
