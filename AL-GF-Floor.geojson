@@ -13,7 +13,7 @@
       "properties": {
         "id": "AL-GF-Floor",
         "color": "Brown",
-        "height": 12,
+        "height": 9,
         "base_height": 0
       },
       "geometry": {
