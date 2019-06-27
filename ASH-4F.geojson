@@ -11,10 +11,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-1",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-1",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -51,10 +52,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-2",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-2",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -131,10 +133,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-3",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-3",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -171,10 +174,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-4",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-4",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -211,10 +215,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-5",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-5",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -259,10 +264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-6",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-6",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -299,10 +305,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-7",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-7",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -339,10 +346,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-8",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-8",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -431,10 +439,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-9",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-9",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -471,10 +480,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-10",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-10",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -511,10 +521,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-11",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-11",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -551,10 +562,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-12",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-12",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -591,10 +603,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-13",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-13",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -631,10 +644,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-14",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-14",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -671,10 +685,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-15",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-15",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -711,10 +726,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-16",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-16",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -751,10 +767,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-17",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-17",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -803,10 +820,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-18",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-18",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -843,10 +861,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-19",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-19",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -883,10 +902,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-20",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-20",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -923,10 +943,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-21",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-21",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -971,10 +992,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-22",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-22",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1011,10 +1033,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-23",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-23",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1051,10 +1074,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-24",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-24",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1111,10 +1135,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-25",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-25",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1187,10 +1212,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-26",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-26",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1259,10 +1285,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-27",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-27",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1335,10 +1362,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-28",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-28",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1423,10 +1451,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-29",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-29",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1483,10 +1512,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-30",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-30",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1583,10 +1613,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-31",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-31",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1679,10 +1710,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-32",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-32",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1747,10 +1779,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-33",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-33",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
@@ -1815,10 +1848,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ASH-4F-34",
-        "color": "yellow",
-        "height": 15,
-        "base_height": 12
+        "id" : "ASH-4F-34",
+"color" : "yellow",
+"height" : 15,
+"base_height" : 12
+
       },
       "geometry": {
         "type": "Polygon",
